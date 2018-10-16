@@ -1,1 +1,1 @@
-Git is free software.
+Git is a free software for everyone.
